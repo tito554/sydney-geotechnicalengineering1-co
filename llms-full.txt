@@ -1,0 +1,62 @@
+# Sydney
+
+> Geotechnical engineering company in United States, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Active Passive Anchor Design](https://sydney.geotechnicalengineering1.co/active-passive-anchor-design/)
+- [Atterberg Limits](https://sydney.geotechnicalengineering1.co/atterberg-limits/)
+- [Base Isolation Seismic Design](https://sydney.geotechnicalengineering1.co/base-isolation-seismic-design/)
+- [Bearing Capacity Analysis](https://sydney.geotechnicalengineering1.co/bearing-capacity-analysis/)
+- [Collapsible Soil Evaluation](https://sydney.geotechnicalengineering1.co/collapsible-soil-evaluation/)
+- [Cone Penetration](https://sydney.geotechnicalengineering1.co/cone-penetration/)
+- [Contaminated Soil Remediation](https://sydney.geotechnicalengineering1.co/contaminated-soil-remediation/)
+- [Debris Flow Analysis](https://sydney.geotechnicalengineering1.co/debris-flow-analysis/)
+- [Diaphragm Wall Design](https://sydney.geotechnicalengineering1.co/diaphragm-wall-design/)
+- [Differential Settlement Analysis](https://sydney.geotechnicalengineering1.co/differential-settlement-analysis/)
+- [Driven Pile Design](https://sydney.geotechnicalengineering1.co/driven-pile-design/)
+- [Dynamic Compaction Design](https://sydney.geotechnicalengineering1.co/dynamic-compaction-design/)
+- [Electrical Resistivity Ves](https://sydney.geotechnicalengineering1.co/electrical-resistivity-ves/)
+- [Expansive Soil Evaluation](https://sydney.geotechnicalengineering1.co/expansive-soil-evaluation/)
+- [Exploratory Pit](https://sydney.geotechnicalengineering1.co/exploratory-pit/)
+- [Factor Safety](https://sydney.geotechnicalengineering1.co/factor-safety/)
+- [Field Density](https://sydney.geotechnicalengineering1.co/field-density/)
+- [Field Vane Shear](https://sydney.geotechnicalengineering1.co/field-vane-shear/)
+- [Flat Dilatometer](https://sydney.geotechnicalengineering1.co/flat-dilatometer/)
+- [Foundations](https://sydney.geotechnicalengineering1.co/foundations/)
+- [Foundations Fill](https://sydney.geotechnicalengineering1.co/foundations-fill/)
+- [Geogrid Specification](https://sydney.geotechnicalengineering1.co/geogrid-specification/)
+- [Geomembrane Specification](https://sydney.geotechnicalengineering1.co/geomembrane-specification/)
+- [Geophysics](https://sydney.geotechnicalengineering1.co/geophysics/)
+- [Geotechnical Analysis Soft Soil](https://sydney.geotechnicalengineering1.co/geotechnical-analysis-soft-soil/)
+- [Geotechnical Design Deep Excavations](https://sydney.geotechnicalengineering1.co/geotechnical-design-deep-excavations/)
+- [Geotechnical Drainage Design](https://sydney.geotechnicalengineering1.co/geotechnical-drainage-design/)
+- [Geotechnical Excavation Monitoring](https://sydney.geotechnicalengineering1.co/geotechnical-excavation-monitoring/)
+- [Geotechnical Road Drainage](https://sydney.geotechnicalengineering1.co/geotechnical-road-drainage/)
+- [Grain Size Analysis](https://sydney.geotechnicalengineering1.co/grain-size-analysis/)
+- [Ground Improvement](https://sydney.geotechnicalengineering1.co/ground-improvement/)
+- [Ground Penetrating Radar](https://sydney.geotechnicalengineering1.co/ground-penetrating-radar/)
+- [Grouting Design](https://sydney.geotechnicalengineering1.co/grouting-design/)
+- [Hvsr Microtremor Survey](https://sydney.geotechnicalengineering1.co/hvsr-microtremor-survey/)
+- [In Situ Testing](https://sydney.geotechnicalengineering1.co/in-situ-testing/)
+- [Investigation](https://sydney.geotechnicalengineering1.co/investigation/)
+- [Laboratory](https://sydney.geotechnicalengineering1.co/laboratory/)
+- [Laboratory Cbr](https://sydney.geotechnicalengineering1.co/laboratory-cbr/)
+- [Laboratory Permeability](https://sydney.geotechnicalengineering1.co/laboratory-permeability/)
+- [Landfill Geotechnics](https://sydney.geotechnicalengineering1.co/landfill-geotechnics/)
+- [Landslide Assessment](https://sydney.geotechnicalengineering1.co/landslide-assessment/)
+- [Mechanically Stabilized Earth](https://sydney.geotechnicalengineering1.co/mechanically-stabilized-earth/)
+- [Menard Pressuremeter](https://sydney.geotechnicalengineering1.co/menard-pressuremeter/)
+- [Micropile Design](https://sydney.geotechnicalengineering1.co/micropile-design/)
+- [Oedometer Consolidation](https://sydney.geotechnicalengineering1.co/oedometer-consolidation/)
+- [Organic Soil Management](https://sydney.geotechnicalengineering1.co/organic-soil-management/)
+- [Pavement Subgrade Design](https://sydney.geotechnicalengineering1.co/pavement-subgrade-design/)
+- [Pile Foundation Design](https://sydney.geotechnicalengineering1.co/pile-foundation-design/)
+- [Pile Skin Friction Vs](https://sydney.geotechnicalengineering1.co/pile-skin-friction-vs/)
+- [Plate Load](https://sydney.geotechnicalengineering1.co/plate-load/)
+
+## Contact
+- Website: https://sydney.geotechnicalengineering1.co/
+
+## About
+This page provides information about geotechnical engineering services available in United States.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
